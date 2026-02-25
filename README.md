@@ -3,6 +3,6 @@
 
 ### Clone into the directory
 ```bash
-git clone https://github.com/mrkrishnaupadhyay/numerical-methods.git
+git clone https://github.com/kriss-u/numerical-methods.git
 ```
 
